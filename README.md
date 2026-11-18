@@ -1,3 +1,4 @@
+![banner](banner-Python.png)
 # Orizon — Sistema di gestione prenotazioni viaggi
 
 Notebook Python che registra, visualizza, filtra e analizza le prenotazioni di un'agenzia di viaggi, con validazione dei dati in ingresso e controllo dei duplicati.
